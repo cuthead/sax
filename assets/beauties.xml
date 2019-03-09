@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beauties>  
+    <beauty>  
+        <name>fbb</name>  
+        <age>28</age>  
+    </beauty>  
+    <beauty>  
+        <name>ym</name>  
+        <age>23</age>  
+    </beauty>
+</beauties>
