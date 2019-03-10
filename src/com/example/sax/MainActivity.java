@@ -13,8 +13,6 @@ import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.widget.TextView;
-
-import com.example.sax.R;
  
 public class MainActivity extends Activity{
 	
